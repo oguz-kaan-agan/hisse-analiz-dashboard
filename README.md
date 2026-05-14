@@ -1,3 +1,5 @@
+<img width="2874" height="720" alt="image" src="https://github.com/user-attachments/assets/cea7627d-b5b2-44f3-85e9-667ec3d4a096" />
+
 # 📈 Hisse Senedi Teknik Analiz Dashboard
 
 Finansal piyasaları aktif olarak takip ettiğim için geliştirdiğim bu araç, Yahoo Finance'den gerçek zamanlı veri çekerek hisse senetleri üzerinde basit teknik analiz yapıyor. RSI ve Moving Average hesaplıyor, al/sat sinyali üretiyor.
